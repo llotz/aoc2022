@@ -6,7 +6,7 @@ namespace aoc2022.day0
     {
         public void Run()
         {
-            string[] text = System.IO.File.ReadAllLines(@"day1/in.txt");
+            string[] text = System.IO.File.ReadAllLines(@"day01/in.txt");
             int foo = 0;
 
 
