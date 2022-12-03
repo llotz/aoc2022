@@ -1,4 +1,4 @@
-using aoc2022.day02;
+using aoc2022.day03;
 
 //First f = new First();
 Second f = new Second();
